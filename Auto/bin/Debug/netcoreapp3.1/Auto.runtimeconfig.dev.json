@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/microchel/.dotnet/store/|arch|/|tfm|",
+      "/home/microchel/.nuget/packages"
+    ]
+  }
+}
